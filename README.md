@@ -39,7 +39,7 @@
     f.	Had someone attempt to open a line of credit or apply for a loan using your name
     g.	Had someone attempt to receive a tax refund using your name
     
-[READ TO ALL INTERNET USERS:] On a different subject...
+#### [READ TO ALL INTERNET USERS:] On a different subject...
 
   **HABITS1**	Thinking about your online activities, do you ever keep track of your passwords by...
   
@@ -69,7 +69,7 @@
    
   **HABITS12** Have you installed any virus protection apps on your smartphone, or not?
 
-[READ TO ALL INTERNET USERS:] On a different subject...
+#### [READ TO ALL INTERNET USERS:] On a different subject...
 
   **WIFI1**	Do you ever access public WiFi in places such as airports, cafes, hotels or libraries?
   
