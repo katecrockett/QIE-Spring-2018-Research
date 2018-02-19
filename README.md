@@ -19,3 +19,5 @@ Also hilarious that 86% of people "memorize their passwords in their heads" whic
 ### [Thread on Pew about Privacy and Safety 2000-2018](http://www.pewinternet.org/topics/privacy-and-safety/)
 ---
 # Focus on _cyber crime_ data
+
+### [Identity Theft Resource Center 2017 Data Breach Stats](https://www.idtheftcenter.org/images/breach/2017Breaches/ITRCBreachReport2017i.pdf)
