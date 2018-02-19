@@ -5,7 +5,7 @@ Hey Morgan, let's get this fired up! I'm still fiddling around with github code 
 
 # Americans and Cybersecurity ~2016: http://www.pewinternet.org/2017/01/26/americans-and-cybersecurity/ 
 
-The original article pointed out a disconnect between what people think and what people do (i.e., hypocrites); data are comprised of a national survey of 1,047 adults on their cybersecurity habits and attitudes. The article outlining the survey references several other studies––this is an ongoing point of study, which means there are many data. I think it's worth checking out other (up-to-date) datasets after we give this set a good twice-over. Let's focus on America, though, for sanity's sake. Don't even get me started on Russia.
+The original article ^ pointed out a disconnect between what people think and what people do (i.e., hypocrites); data are comprised of a national survey of 1,047 adults on their cybersecurity habits and attitudes. The article outlining the survey references several other studies––this is an ongoing point of study, which means there are many data. I think it's worth checking out other (up-to-date) datasets after we give this set a good twice-over. Let's focus on America, though, for sanity's sake. Don't even get me started on Russia.
 
 # Public Perceptions of Privacy ~2014: http://www.pewinternet.org/2014/11/12/public-privacy-perceptions/
 # American's attitude about Privacy, Security, Survelliance ~2015: http://www.pewinternet.org/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/
