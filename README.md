@@ -27,3 +27,6 @@ Also hilarious that 86% of people "memorize their passwords in their heads" whic
 
 ### [Ponemon Institute’s 2017 Cost of Data Breach Study: Global Overview](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=SEL03130WWEN)
 ––PDF format
+
+### [Cybercrime & The Internet of Threats 2017](https://www.juniperresearch.com/document-library/white-papers/cybercrime-the-internet-of-threats-2017)
+––PDF format
