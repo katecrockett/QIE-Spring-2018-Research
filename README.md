@@ -1,5 +1,3 @@
-# QIE-Spring-2018-Research
-Quantitative Impact Evaluation semester-long project to investigate Pew Research Center's Cybersecurity Survey pulled from March 30th - May 3rd 2016. Research prompt and specific hypotheses to follow.
 # Russian Tweets Investigation
 
 Good moorrrrrning. I found this NBC article that includes .csv files of the 200,000 fake Russian tweets deleted by Twitter. OMG. I spent the whole morning searching for legitimate dataset downloads and _this_ is where I find one? Nevermind, though, because this is fascinating. 
