@@ -29,15 +29,15 @@
   **SECUR1**	In general, how secure do you feel your personal information is compared with five years ago? 
   
   **SECUR2**	(To the best of your knowledge...) Have you ever...[INSERT ITEMS; RANDOMIZE; ASK ITEMS a AND b TOGETHER IN ORDER]?
-    a.	Received a notice that your social security number had been compromised
-    b.	Received a notice that other sensitive personal information, such as your account number, had been compromised
-    c.	Noticed fraudulent charges on your debit or credit card
-    Item D: Based on all internet users [N=926]
-    d.	Had someone take over your email account without your permission
-    Item E: Based on social media users [N=665]
-    e.	Had someone take over your social media account without your permission
-    f.	Had someone attempt to open a line of credit or apply for a loan using your name
-    g.	Had someone attempt to receive a tax refund using your name
+    * a.	Received a notice that your social security number had been compromised
+    * b.	Received a notice that other sensitive personal information, such as your account number, had been compromised
+    * c.	Noticed fraudulent charges on your debit or credit card
+    * Item D: Based on all internet users [N=926]
+    * d. Had someone take over your email account without your permission
+    * Item E: Based on social media users [N=665]
+    * e.	Had someone take over your social media account without your permission
+    * f.	Had someone attempt to open a line of credit or apply for a loan using your name
+    * g.	Had someone attempt to receive a tax refund using your name
     
 #### [READ TO ALL INTERNET USERS:] On a different subject...
 
@@ -88,8 +88,8 @@
   **POLICY5**	How well-prepared do you think U.S. BUSINESSES are to prevent cyberattacks on their own systems? 
   
   **POLICY6**	Thinking about some recent instances of cyberattacks, have you heard anything about [INSERT ITEMS; RANDOMIZE], or is this       not something you have heard of? [IF YES, ASK: Have you heard a lot about this, or a little about it?]
-      a.	The publication of company emails at the Sony Corporation
-      b.	The exposure of government security clearance information at the Office of Personnel Management
-      c.	The exposure of credit card data of customers who shopped at Target stores
-      d.	The disruption of the power grid in Ukraine
-      e.	The publishing of the identities of AshleyMadison.com customers
+      * a.	The publication of company emails at the Sony Corporation
+      * b.	The exposure of government security clearance information at the Office of Personnel Management
+      * c.	The exposure of credit card data of customers who shopped at Target stores
+      * d.	The disruption of the power grid in Ukraine
+      * e.	The publishing of the identities of AshleyMadison.com customers
