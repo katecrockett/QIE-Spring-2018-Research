@@ -13,6 +13,6 @@ Also hilarious that 86% of people "memorize their passwords in their heads" whic
 
 ------------------------------
 
-### Public Perceptions of Privacy ~2014: http://www.pewinternet.org/2014/11/12/public-privacy-perceptions/
-### American's attitude about Privacy, Security, Survelliance ~2015: http://www.pewinternet.org/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/
-### Thread on Pew about Privacy and Safety ~2000-2018: http://www.pewinternet.org/topics/privacy-and-safety/
+### [Public Perceptions of Privacy ~2014](http://www.pewinternet.org/2014/11/12/public-privacy-perceptions/)
+### [American's attitude about Privacy, Security, Survelliance ~2015](http://www.pewinternet.org/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/)
+### [Thread on Pew about Privacy and Safety ~2000-2018](http://www.pewinternet.org/topics/privacy-and-safety/)
