@@ -14,3 +14,5 @@ The original article ^ pointed out a disconnect between what people think and wh
 A lot of Americans have received notices about their accounts being compromised that are scary AF. This is a cool direction to go in for a topic considering the likelihood that social security numbers will be a thing of the past soon. Also relevant because the majority of Americans' trust level in Trump––and the federal gov. by extention––is like 0.  
 
 Also hilarious that 86% of people "memorize their passwords in their heads" which really just means they rotate 3 and frequently reset any that fall outside of that 3. Totally need to tie in password management software to our independent research. 
+
+------------------------------
