@@ -1,5 +1,5 @@
 # QIE-Spring-2018-Research
-Quantitative Impact Evaluation semester-long project to investigate Pew Research Center's Cybersecurity Survey pulled from March 30th - May 3rd 2016. Research prompt and specific hypotheses to follow.
+#Intro
 
 Hey Morgan, let's get this fired up! I'm still fiddling around with github code so bear with me. My F key is also MIA at the moment. Literally ripped itself from my keyboard in bed this morning. Anyway,
 
