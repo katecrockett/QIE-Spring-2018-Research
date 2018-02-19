@@ -1,5 +1,5 @@
 # QIE-Spring-2018-Research
-#Intro
+# Intro
 
 Hey Morgan, let's get this fired up! I'm still fiddling around with github code so bear with me. My F key is also MIA at the moment. Literally ripped itself from my keyboard in bed this morning. Anyway,
 
