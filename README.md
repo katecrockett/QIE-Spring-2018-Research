@@ -9,7 +9,7 @@ The original article pointed out a disconnect between what people think and what
 
 # Public Perceptions of Privacy ~2014: http://www.pewinternet.org/2014/11/12/public-privacy-perceptions/
 # American's attitude about Privacy, Security, Survelliance ~2015: http://www.pewinternet.org/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/
-# Thread on Pew. Privacy and Safety ~2000-2018: http://www.pewinternet.org/topics/privacy-and-safety/
+# Thread on Pew about Privacy and Safety ~2000-2018: http://www.pewinternet.org/topics/privacy-and-safety/
 
 A lot of Americans have received notices about their accounts being compromised that are scary AF. This is a cool direction to go in for a topic considering the likelihood that social security numbers will be a thing of the past soon. Also relevant because the majority of Americans' trust level in Trump––and the federal gov. by extention––is like 0.  
 
