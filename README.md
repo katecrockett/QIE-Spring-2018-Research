@@ -3,7 +3,7 @@
 
 Hey Morgan, let's get this fired up! I'm still fiddling around with github code so bear with me. My F key is also MIA at the moment. Literally ripped itself from my keyboard in bed this morning. Anyway,
 
-### <Americans and Cybersecurity ~2016>: http://www.pewinternet.org/2017/01/26/americans-and-cybersecurity/ 
+### Americans and Cybersecurity ~2016: http://www.pewinternet.org/2017/01/26/americans-and-cybersecurity/ 
 
 The original article ^ pointed out a disconnect between what people think and what people do (i.e., hypocrites); data are comprised of a national survey of 1,047 adults on their cybersecurity habits and attitudes. Not much grit here regarding actual data breach occurances, just opinion and experience recounting. The article outlining the survey references several other studies––this is an ongoing point of study, which means there are many data. I think it's worth checking out other (up-to-date) datasets after we give this set a good twice-over. Let's focus on America, though, for sanity's sake. Don't even get me started on Russia.
 
