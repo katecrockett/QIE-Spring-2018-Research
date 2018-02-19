@@ -88,8 +88,8 @@
   **POLICY5**	How well-prepared do you think U.S. BUSINESSES are to prevent cyberattacks on their own systems? 
   
   **POLICY6**	Thinking about some recent instances of cyberattacks, have you heard anything about [INSERT ITEMS; RANDOMIZE], or is this       not something you have heard of? [IF YES, ASK: Have you heard a lot about this, or a little about it?]
-    * a.	The publication of company emails at the Sony Corporation
-    * b.	The exposure of government security clearance information at the Office of Personnel Management
-    * c.	The exposure of credit card data of customers who shopped at Target stores
-    * d.	The disruption of the power grid in Ukraine
-    * e.	The publishing of the identities of AshleyMadison.com customers
+  * a.	The publication of company emails at the Sony Corporation
+  * b.	The exposure of government security clearance information at the Office of Personnel Management
+  * c.	The exposure of credit card data of customers who shopped at Target stores
+  * d.	The disruption of the power grid in Ukraine
+  * e.	The publishing of the identities of AshleyMadison.com customers
