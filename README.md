@@ -3,16 +3,16 @@ Quantitative Impact Evaluation semester-long project to investigate Pew Research
 
 ---
 
-#Before Log Earn modification, April 6th 
-##Earnings amount is skewed
+## Before Log Earn modification, April 6th 
+## Earnings amount is skewed
 
-##Code 
+# Code 
 ---
 lm(dfcurrent2$'earn'~dfcurrent2$'economics' + dfcurrent2$political_science + dfcurrent2$'racialasian' + dfcurrent2$'racialblack' + dfcurrent2$'racialpacific' + dfcurrent2$'racialnative' +dfcurrent2$dadbach + dfcurrent2$dadlesshs +dfcurrent2$mombach, + dfcurrent2$momlesshs + dfcurrent2$childliv + dfcurrent2$spowk_full + dfcurrent2$employ_10 + dfcurrent2$employ_25000 + dfcurrent2$citizenusin, + dfcurrent2$minority, + dfcurrent2$bthus + dfcurrent2$gov_inst + dfcurrent2$edu_inst + dfcurrent2$married + dfcurrent2$divorced + dfcurrent2$separated + dfcurrent2$citizendual + dfcurrent2$onedeg +dfcurrent2$twodeg +dfcurrent2$threedeg +dfcurrent2$fourdeg +dfcurrent2$fivedeg +dfcurrent2$gradsupemploy +dfcurrent2$et_priv_prof)
 model7<-lm(dfcurrent2$'earn'~dfcurrent2$'economics'+dfcurrent2$'racialasian' + dfcurrent2$'racialblack' + dfcurrent2$'racialpacific' + dfcurrent2$'racialnative' +dfcurrent2$dadbach + dfcurrent2$dadlesshs +dfcurrent2$mombach  + dfcurrent2$momlesshs + dfcurrent2$childliv + dfcurrent2$spowk_full + dfcurrent2$employ_10 +  dfcurrent2$employ_25000 + dfcurrent2$citizenusin + dfcurrent2$minority + dfcurrent2$bthus+ dfcurrent2$gov_inst + dfcurrent2$edu_inst + dfcurrent2$married + dfcurrent2$divorced + dfcurrent2$separated + dfcurrent2$citizendual + dfcurrent2$onedeg  +dfcurrent2$twodeg +dfcurrent2$threedeg +dfcurrent2$fourdeg +dfcurrent2$fivedeg +dfcurrent2$gradsupemploy +dfcurrent2$et_priv_prof)
 summary(model7)
 
-##Output
+## Output
 ---
 Residuals:
     Min      1Q  Median      3Q     Max 
@@ -59,10 +59,10 @@ Multiple R-squared:  0.01793,	Adjusted R-squared:  0.01735
 F-statistic: 30.75 on 29 and 48841 DF,  p-value: < 2.2e-16
 
 
-###Holding constant race, age, sex, parental education level, children living in the home, employer size, birth region, marital status, and the number of degrees received, economics majors aged 25-55 who work full time make $37,000 more on average than other college graduates, significant at the 1% level.
+### Holding constant race, age, sex, parental education level, children living in the home, employer size, birth region, marital status, and the number of degrees received, economics majors aged 25-55 who work full time make $37,000 more on average than other college graduates, significant at the 1% level.
 
-###Economics majors with a father who completed a bachelor's degree made $8,854 more on average than other economics majors, signficant at the 1% level. Those with a father who did not complete high school made $10,000 more on average than other economics majors, significant at the 10% level. Mother's education level has no statistically significant impact on indiviudls' earnings.  
+### Economics majors with a father who completed a bachelor's degree made $8,854 more on average than other economics majors, signficant at the 1% level. Those with a father who did not complete high school made $10,000 more on average than other economics majors, significant at the 10% level. Mother's education level has no statistically significant impact on indiviudls' earnings.  
 
-###Economics majors with children living in the home make $10,904 more on average than other economics majors, statistically significant at the 1% level. Those with spouses who work full time make $23,000 less on average than other economics majors. Those who work in a very small company (less than 10 employees) make $18,000 less than other economics majors, whereas those who work in a very large company (more than 25,000 employees) make $15,606 more than other economics majors, both significant at the 1% level. 
+### Economics majors with children living in the home make $10,904 more on average than other economics majors, statistically significant at the 1% level. Those with spouses who work full time make $23,000 less on average than other economics majors. Those who work in a very small company (less than 10 employees) make $18,000 less than other economics majors, whereas those who work in a very large company (more than 25,000 employees) make $15,606 more than other economics majors, both significant at the 1% level. 
 
-###Minorities make $9,355 less on average than other economics majors, significant at the 5% level; yet those born in the U.S. make $12, 905 less than other economics majors, significant at the 1% level. Those who work for a government or educational instituations make less on average than other majors, significant at the 1% level. Married economics majors make $27,992 more on average than other economics majors, significant at the 1% level.
+### Minorities make $9,355 less on average than other economics majors, significant at the 5% level; yet those born in the U.S. make $12, 905 less than other economics majors, significant at the 1% level. Those who work for a government or educational instituations make less on average than other majors, significant at the 1% level. Married economics majors make $27,992 more on average than other economics majors, significant at the 1% level.
