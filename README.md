@@ -6,7 +6,7 @@ Quantitative Impact Evaluation semester-long project to investigate Pew Research
 ## Before Log Earn modification, April 6th 
 ## Earnings amount is skewed
 
-# Code 
+# Regression
 ---
 lm(dfcurrent2$'earn'~dfcurrent2$'economics' + dfcurrent2$political_science + dfcurrent2$'racialasian' + dfcurrent2$'racialblack' + dfcurrent2$'racialpacific' + dfcurrent2$'racialnative' +dfcurrent2$dadbach + dfcurrent2$dadlesshs +dfcurrent2$mombach, + dfcurrent2$momlesshs + dfcurrent2$childliv + dfcurrent2$spowk_full + dfcurrent2$employ_10 + dfcurrent2$employ_25000 + dfcurrent2$citizenusin, + dfcurrent2$minority, + dfcurrent2$bthus + dfcurrent2$gov_inst + dfcurrent2$edu_inst + dfcurrent2$married + dfcurrent2$divorced + dfcurrent2$separated + dfcurrent2$citizendual + dfcurrent2$onedeg +dfcurrent2$twodeg +dfcurrent2$threedeg +dfcurrent2$fourdeg +dfcurrent2$fivedeg +dfcurrent2$gradsupemploy +dfcurrent2$et_priv_prof)
 model7<-lm(dfcurrent2$'earn'~dfcurrent2$'economics'+dfcurrent2$'racialasian' + dfcurrent2$'racialblack' + dfcurrent2$'racialpacific' + dfcurrent2$'racialnative' +dfcurrent2$dadbach + dfcurrent2$dadlesshs +dfcurrent2$mombach  + dfcurrent2$momlesshs + dfcurrent2$childliv + dfcurrent2$spowk_full + dfcurrent2$employ_10 +  dfcurrent2$employ_25000 + dfcurrent2$citizenusin + dfcurrent2$minority + dfcurrent2$bthus+ dfcurrent2$gov_inst + dfcurrent2$edu_inst + dfcurrent2$married + dfcurrent2$divorced + dfcurrent2$separated + dfcurrent2$citizendual + dfcurrent2$onedeg  +dfcurrent2$twodeg +dfcurrent2$threedeg +dfcurrent2$fourdeg +dfcurrent2$fivedeg +dfcurrent2$gradsupemploy +dfcurrent2$et_priv_prof)
